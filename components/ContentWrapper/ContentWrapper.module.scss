@@ -1,8 +1,8 @@
 @import 'styles/Variables';
 
 .content {
-  max-width: $content-max-width;
-  margin: 0 auto;
+  // max-width: $content-max-width;
+  // margin: 0 auto;
   line-height: 1.6875;
 
   :global {
@@ -15,14 +15,14 @@
       margin-right: 0;
     }
 
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      margin: 4.8rem 0;
-    }
+    // h1,
+    // h2,
+    // h3,
+    // h4,
+    // h5,
+    // h6 {
+    //   margin: 4.8rem 0;
+    // }
 
     strong {
       font-weight: 700;
